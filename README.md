@@ -1,2 +1,2 @@
-# forum
-The Simplex minecraft forum
+# The Simplex Minecraft Forum
+
